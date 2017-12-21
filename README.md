@@ -3,6 +3,6 @@ Deep Neural Network approach using Tensorflow to recognize hand sign gesture  <b
 
 Recognize the numerical value based on the hand gesture recognition from image data<br>
 here is an example:<br>
-![SIGN 1](https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/1.jpg = 250x250) ![SIGN 2](https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/2.jpg= 250x250) ![SIGN 4](https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/4.jpg) <br> 
+<img src="https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/1.jpg" alt="1" style="width: 200px;"/> <img src="https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/2.jpg" alt="2" style="width: 200px;"/> ![SIGN 4](https://github.com/ab-bh/Hand-SIGNS-Recognition/blob/master/4.jpg) <br> 
 
 
